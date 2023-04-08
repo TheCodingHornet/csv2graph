@@ -1,9 +1,10 @@
 Metadata-Version: 2.1
 Name: csv2graph
-Version: 0.1
-Summary: Library for reading CSV files and creating a graph of linked objects
+Version: 1.0
+Summary: A Python library to convert CSV files to graph objects
 Home-page: https://github.com/TheCodingHornet/csv2graph
 Author: Simon STEPHAN
 Author-email: simon.stephan@u-bourgogne.fr
-License: MIT
+License: GNU
+Requires-Python: >=3.6
 License-File: LICENCE.txt

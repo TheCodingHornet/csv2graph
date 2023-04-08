@@ -1,0 +1,2 @@
+[console_scripts]
+csv2graph = csv2graph.csv2graph:main
