@@ -6,14 +6,17 @@
 # Auteur:               Simon STEPHAN <simon.stephan@u-bourgogne.fr>
 #
 # Copyright (c) 2023,
-# Tous droits réservés. 
+# Tous droits réservés.
 #
 
 from setuptools import setup, find_packages
 
+with open('readme.md') as f:
+    long_description = f.read()
+
 setup(
     name="csv2graph",
-    version="1.0",
+    version="2.0.1",
     packages=find_packages(),
     install_requires=[
         "networkx",
@@ -27,6 +30,9 @@ setup(
     python_requires=">=3.6",
     license="GNU",
     description="A Python library to convert CSV files to graph objects",
+    long_description=long_description,
+    long_description_content_type='text/markdown',
+    readme="readme.md",
     author="Simon STEPHAN",
     author_email="simon.stephan@u-bourgogne.fr",
     url="https://github.com/TheCodingHornet/csv2graph"
