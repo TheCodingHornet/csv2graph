@@ -1,0 +1,21 @@
+id,id_person1,person1_firstname,person1_lastname,id_person2,person2_firstname,person2_lastname,relation_type,relation_mechanism,relation_date
+1,1,Alice,Smith,2,Bob,Jones,Friend,Introduction,2022-02-14
+2,3,Charlie,Chan,4,David,Lee,Colleague,Work,2021-11-05
+3,2,Bob,Jones,3,Charlie,Chan,Friend,Shared Interest,2020-03-21
+4,4,David,Lee,1,Alice,Smith,Enemy,Personal Conflict,2019-09-12
+5,1,Alice,Smith,4,David,Lee,Family,Marriage,2018-06-30
+6,2,Bob,Jones,1,Alice,Smith,Friend,Work,2017-12-25
+7,3,Charlie,Chan,1,Alice,Smith,Colleague,Work,2019-06-17
+8,5,Emma,Nguyen,2,Bob,Jones,Family,Marriage,2022-01-01
+9,4,David,Lee,2,Bob,Jones,Colleague,Work,2020-07-30
+10,1,Alice,Smith,3,Charlie,Chan,Friend,Social Activity,2021-10-10
+11,2,Bob,Jones,4,David,Lee,Friend,Social Activity,2022-03-08
+12,3,Charlie,Chan,5,Emma,Nguyen,Friend,Social Activity,2019-04-02
+13,1,Alice,Smith,5,Emma,Nguyen,Colleague,Work,2020-09-20
+14,4,David,Lee,3,Charlie,Chan,Enemy,Personal Conflict,2021-01-15
+15,5,Emma,Nguyen,1,Alice,Smith,Friend,Social Activity,2018-11-11
+16,2,Bob,Jones,5,Emma,Nguyen,Friend,Shared Interest,2022-04-25
+17,3,Charlie,Chan,2,Bob,Jones,Colleague,Work,2019-02-01
+18,4,David,Lee,5,Emma,Nguyen,Friend,Social Activity,2020-05-29
+19,1,Alice,Smith,3,Charlie,Chan,Friend,Shared Interest,2018-09-03
+20,2,Bob,Jones,4,David,Lee,Colleague,Work,2021-07-12

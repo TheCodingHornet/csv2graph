@@ -1,0 +1,11 @@
+LICENCE.txt
+MANIFEST.in
+README.md
+setup.py
+csv2graph/__init__.py
+csv2graph/csv2graph.py
+csv2graph.egg-info/PKG-INFO
+csv2graph.egg-info/SOURCES.txt
+csv2graph.egg-info/dependency_links.txt
+csv2graph.egg-info/requires.txt
+csv2graph.egg-info/top_level.txt

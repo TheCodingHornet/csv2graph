@@ -1,0 +1,6 @@
+python setup.py sdist
+
+twine upload dist/*
+
+# Tester l'installation
+#pip install Csv2LinkedObjects

@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: csv2graph
+Version: 0.1
+Summary: Library for reading CSV files and creating a graph of linked objects
+Home-page: https://github.com/TheCodingHornet/csv2graph
+Author: Simon STEPHAN
+Author-email: simon.stephan@u-bourgogne.fr
+License: MIT
+License-File: LICENCE.txt

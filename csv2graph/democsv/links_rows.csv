@@ -1,0 +1,6 @@
+id,first_name,last_name,course,grade,email,advisor_id,friend_ids
+1,Alice,Smith,Math,85,alice.smith@example.com,2,"2,3"
+2,Bob,Jones,Math,92,bob.jones@example.com,1,"1,3"
+3,Charlie,Chan,Physics,78,charlie.chan@example.com,1,"1,2,4"
+4,David,Lee,Physics,80,david.lee@example.com,2,"3"
+5,Emma,Nguyen,History,87,emma.nguyen@example.com,2,""
