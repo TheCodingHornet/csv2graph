@@ -8,4 +8,4 @@
 # Copyright (c) 2023,
 # Tous droits réservés. 
 #
-from .csv2graph import Csv2LinkedObjects
+from .csv2graph import csv2graph

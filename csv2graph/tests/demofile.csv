@@ -1,5 +1,5 @@
 id,id_person1,person1_firstname,person1_lastname,id_person2,person2_firstname,person2_lastname,relation_type,relation_mechanism,relation_date
-1,1,Alice,Smith,2,Bob,Jones,Friend,Introduction,2022-02-14
+1,1,Alice,Smith,2,Bob,Jones,Friend,Introduction,2022-02-18
 2,3,Charlie,Chan,4,David,Lee,Colleague,Work,2021-11-05
 3,2,Bob,Jones,3,Charlie,Chan,Friend,Shared Interest,2020-03-21
 4,4,David,Lee,1,Alice,Smith,Enemy,Personal Conflict,2019-09-12
@@ -19,3 +19,4 @@ id,id_person1,person1_firstname,person1_lastname,id_person2,person2_firstname,pe
 18,4,David,Lee,5,Emma,Nguyen,Friend,Social Activity,2020-05-29
 19,1,Alice,Smith,3,Charlie,Chan,Friend,Shared Interest,2018-09-03
 20,2,Bob,Jones,4,David,Lee,Colleague,Work,2021-07-12
+21,1,Alice,Smith,2,Bob,Jones,Colleague,Work,2022-02-14
